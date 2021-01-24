@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "H2Mo/svaLWpU1LbY2PBEF01HWgWkSP7a2FVv2vFP+aZg7p1l5NdmFhSrReyT870MnpdAs9ZRGz6L0BIpAy9N0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Suat-\\source\\repos\\suatcg\\AcmeCustomerManagementSystem-\\ACM.BL\\ACM.BL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Suat-\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Suat-\\.nuget\\packages\\mstest.testframework\\2.1.2\\mstest.testframework.2.1.2.nupkg.sha512",
+    "C:\\Users\\Suat-\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
